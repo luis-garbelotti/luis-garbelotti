@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=189200FF&background=16FF3700&vCenter=true&lines=Hey+you!;What's+up%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=189200FF&background=16FF3700&vCenter=true&lines=Hey+you!;What's+up%3F)](https://git.io/typing-svg)
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=189200FF&background=16FF3700&vCenter=true&lines=About+me+💬)](https://git.io/typing-svg)
 

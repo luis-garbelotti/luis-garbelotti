@@ -36,6 +36,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-garbelotti/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisgsgarbelotti@gail.com)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=189200FF&background=16FF3700&vCenter=true&lines=🤘+PLAY+IT+LOUD!;🤘+AND+STAY+FOCUSED! )](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=189200FF&background=16FF3700&vCenter=true&lines=PLAY+IT+LOUD!+🤘;AND+STAY+FOCUSED!+🤘 )](https://git.io/typing-svg)
 
 <img src="./assets/heavy.gif" />

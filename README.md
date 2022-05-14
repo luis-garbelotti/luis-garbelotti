@@ -13,8 +13,6 @@
 - :thought_balloon:  I love hearing about things I don't know 
 - :dog2:  Fun fact: I love pets 
 
-<br/>
-
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=189200FF&background=16FF3700&vCenter=true&lines=Tech+knowledge+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <details>

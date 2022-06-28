@@ -1,17 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=189200FF&background=16FF3700&vCenter=true&lines=Hey+you!;What's+up%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=189200FF&background=16FF3700&vCenter=true&lines=Hey+you!;What's+up%3F)](https://git.io/typing-svg)
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=189200FF&background=16FF3700&vCenter=true&lines=About+me+%F0%9F%91%BE)](https://git.io/typing-svg)
 
-<img align="right" src="./assets/ovni.gif" width="250" height="250" />
+<img align="right" src="./assets/header.gif" width="400" height="250" />
 
-- :rocket:  Full Stack Developer in training 
+- :rocket:  Full Stack Developer
 - :books:  Mechanical Engineering student 
 - :guitar:  Heavy metal fan 
 - :eyes:  Anime friendly 
 - :video_game:  Gamer 
-- :seedling:  I’m currently learning Typescript 
+- :seedling:  I’m currently learning OOP
 - :thought_balloon:  I love hearing about things I don't know 
-- :dog2:  Fun fact: I love pets 
+- :drum:  Fun fact: I can play guitar and some percussion instruments like tambourine, bass drum and snare.
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=189200FF&background=16FF3700&vCenter=true&lines=Tech+knowledge+%F0%9F%A7%A0)](https://git.io/typing-svg)
 

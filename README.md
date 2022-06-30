@@ -11,21 +11,42 @@
 - :video_game:  Gamer 
 - :seedling:  I’m currently learning OOP
 - :thought_balloon:  I love hearing about things I don't know 
-- :drum:  Fun fact: I can play guitar and some percussion instruments like tambourine, bass drum and snare.
+- :drum:  Fun fact: I can play guitar and some percussion <br/> instruments like tambourine, bass drum and snare.
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=189200FF&background=16FF3700&vCenter=true&lines=Tech+knowledge+%F0%9F%A7%A0)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=189200FF&background=16FF3700&vCenter=true&lines=Tech+knowledge+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <details>
-  <summary><b>:trophy: &nbsp;Main</b></summary>
+  <summary><b>:speaking_head: &nbsp;Languages</b></summary>
     <br/>
-      <img src="./assets/main-stacks.gif" />
+      <img src="./assets/languages.gif" />
     <br/>
 </details>
 
 <details>
-  <summary><b>:writing_hand: &nbsp;Working on</b></summary>
+  <summary><b>:star_struck: &nbsp;Frontend</b></summary>
     <br/>
-      <img src="./assets/working-on.gif" width="390" />
+      <img src="./assets/frontend.gif" />
+    <br/>
+</details>
+
+<details>
+  <summary><b>:skull: &nbsp;Backend</b></summary>
+    <br/>
+      <img src="./assets/backend.gif" />
+    <br/>
+</details>
+
+<details>
+  <summary><b>:brain: &nbsp;Databases</b></summary>
+    <br/>
+      <img src="./assets/databases.gif" />
+    <br/>
+</details>
+
+<details>
+  <summary><b>:jigsaw: &nbsp;Deploy & Infra</b></summary>
+    <br/>
+      <img src="./assets/deployAndInfra.gif" />
     <br/>
 </details>
 
